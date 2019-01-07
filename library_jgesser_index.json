@@ -8,7 +8,7 @@
       "sentence": "OTA",
       "paragraph": "Configures OTA Updates",
       "website": "https://github.com/jgesser/ArduinoLibraries",
-      "category": "Other",
+      "category": "Communication",
       "architectures": [
         "*"
       ],
