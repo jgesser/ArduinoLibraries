@@ -1,0 +1,24 @@
+{
+  "libraries": [
+    {
+      "name": "OTA",
+      "version": "1.0.0",
+      "author": "Julio Gesser",
+      "maintainer": "Julio Gesser",
+      "sentence": "OTA",
+      "paragraph": "Configures OTA Updates",
+      "website": "https://github.com/jgesser/ArduinoLibraries",
+      "category": "Other",
+      "architectures": [
+        "*"
+      ],
+      "types": [
+        "Arduino"
+      ],
+      "url": "https://github.com/jgesser/ArduinoLibraries/releases/download/v1.0/OTA-1.0.0.zip",
+      "archiveFileName": "OTA-1.0.0.zip",
+      "size": 2955,
+      "checksum": "SHA-256:6B21B17B78EF095938A9B6A48FB652EC3C9AA6E54CE32E8B6CEE432B022FA8B0"
+    }
+  ]
+}
